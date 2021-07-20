@@ -1,3 +1,6 @@
 This is to demonstrate the git pull and fetch CMD's.
 Hello
-fetch
+fetch - please run the fetch andthen run the merge command.
+
+
+GIT PULL command
