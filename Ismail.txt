@@ -1,1 +1,1 @@
-Thihs is to demonstrate the git pull and fetch CMD's.
+This is to demonstrate the git pull and fetch CMD's.
